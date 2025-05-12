@@ -28,6 +28,9 @@ list_of_file = [
     
     f"{user_input}/utils.py",
     
+    f"notebook/EDA.ipynb",
+    f"notebook/model_training.ipynb",
+    
     "setup.py",
     "app.py",
     "Dockerfile",

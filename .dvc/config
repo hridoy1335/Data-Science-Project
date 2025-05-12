@@ -1,0 +1,12 @@
+[core]
+    remote = trackadata
+['remote "mydata"']
+    url = ../data
+['remote "datatrack"']
+    url = https://drive.google.com/drive/u/1/folders/1M_LEtwZ4kMt6UHDC7Aqi2g0F9kReoY_M
+['remote "trackthedata"']
+    url = https://drive.google.com/drive/folders/1M_LEtwZ4kMt6UHDC7Aqi2g0F9kReoY_M?usp=share_link
+['remote "trackdata"']
+    url = https://drive.google.com/drive/folders/1M_LEtwZ4kMt6UHDC7Aqi2g0F9kReoY_M?usp=share_link
+['remote "trackadata"']
+    url = https://drive.google.com/drive/folders/1M_LEtwZ4kMt6UHDC7Aqi2g0F9kReoY_M?usp=share_link
