@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: DataScience
+Version: 1.0
+Summary: Data Science Project
+Home-page: https://github.com/hridoy1335/Data-Science-Project
+Author: Hridoy Khan
+Author-email: rkredoy1335@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: streamlit
+Requires-Dist: flask
+Requires-Dist: dvc
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
