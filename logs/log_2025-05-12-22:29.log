@@ -1,4 +1,0 @@
-2025-05-12 22:29:21,533 - root - INFO - data ingestion is ready to start
-2025-05-12 22:29:21,538 - root - INFO - read the data file
-2025-05-12 22:29:21,541 - root - INFO - split the data into train and test
-2025-05-12 22:29:21,545 - root - INFO - data ingestion is complete.

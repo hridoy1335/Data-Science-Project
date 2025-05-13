@@ -1,0 +1,9 @@
+2025-05-13 06:02:54,035 - root - INFO - data loaded successfully
+2025-05-13 06:02:54,038 - root - INFO - split ting data into train and test
+2025-05-13 06:02:54,043 - root - INFO - data spliting successfull.
+2025-05-13 06:02:54,044 - root - INFO - file read successfully
+2025-05-13 06:02:54,044 - root - INFO - numerical_columns:->['math score', 'reading score', 'writing score']
+2025-05-13 06:02:54,044 - root - INFO - categorical_columns:->['gender', 'ethnicity', 'edu_level', 'lunch', 'course']
+2025-05-13 06:02:54,044 - root - INFO - make columns transformer object created
+2025-05-13 06:02:54,044 - root - INFO - spliting feature columns and terget columns
+2025-05-13 06:02:54,046 - root - INFO - applying preprocessor traing data and test data
