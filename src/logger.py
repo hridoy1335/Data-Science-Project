@@ -1,4 +1,4 @@
-import os, logging
+import os, logging, sys
 from datetime import datetime
 
 
@@ -13,7 +13,11 @@ FILE_NAME = f"log_{CURRENT_TIME}.log"
 LOG_FILE = os.path.join(FILE_DIR,FILE_NAME)
 
 logging.basicConfig(
-    filename=LOG_FILE,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    level=logging.INFO
+    format='%(asctime)s - %(module)s - %(levelname)s - %(message)s',
+    level=logging.INFO,
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
+logger = logging.getLogger('test')

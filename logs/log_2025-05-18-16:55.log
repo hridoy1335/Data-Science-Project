@@ -1,0 +1,8 @@
+2025-05-18 16:55:10,587 - main - INFO - Proccess are ready to work
+2025-05-18 16:55:10,588 - main - INFO - data are load successfull.
+2025-05-18 16:55:10,589 - main - INFO - spliting train and test.
+2025-05-18 16:55:10,590 - main - INFO - transformation is going on.
+2025-05-18 16:55:12,942 - main - INFO - transformation is done.
+2025-05-18 16:55:12,943 - main - INFO - cross_val_score testing
+2025-05-18 16:55:13,955 - main - INFO - cross_val_score is: [0.99826215 0.99799186 0.99672606 0.99580766 0.9957637  0.99552587
+ 0.99814674 0.9978517  0.99657894 0.99248209]
