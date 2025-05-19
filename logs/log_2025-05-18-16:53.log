@@ -1,6 +1,0 @@
-2025-05-18 16:53:24,787 - main - INFO - Proccess are ready to work
-2025-05-18 16:53:24,788 - main - INFO - data are load successfull.
-2025-05-18 16:53:24,789 - main - INFO - spliting train and test.
-2025-05-18 16:53:24,790 - main - INFO - transformation is going on.
-2025-05-18 16:53:26,371 - main - INFO - transformation is done.
-2025-05-18 16:53:26,372 - main - INFO - cross_val_score testing

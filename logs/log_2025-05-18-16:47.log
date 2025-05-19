@@ -1,7 +1,0 @@
-2025-05-18 16:47:17,172 - main - INFO - Proccess are ready to work
-2025-05-18 16:47:17,176 - main - INFO - data are load successfull.
-2025-05-18 16:47:17,177 - main - INFO - spliting train and test.
-2025-05-18 16:47:17,178 - main - INFO - transformation is going on.
-2025-05-18 16:47:18,990 - main - INFO - transformation is done.
-2025-05-18 16:47:19,249 - main - INFO - model fit successfully.
-2025-05-18 16:47:19,256 - main - INFO - all metrics are r2_score: -0.05042101471182314 - mean_squared_error: 854885.5024379411 - mean_absolute_error: 726.3396764705882

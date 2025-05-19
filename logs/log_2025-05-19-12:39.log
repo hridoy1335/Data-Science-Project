@@ -1,0 +1,7 @@
+2025-05-19 12:39:25,642 - data_ingestion - INFO - data ingestion started...
+2025-05-19 12:39:25,642 - data_ingestion - INFO - loading data set.
+2025-05-19 12:39:27,434 - data_ingestion - INFO - data loaded successfull
+2025-05-19 12:39:33,212 - data_ingestion - INFO - raw data was sent the artifacts folder successfully.
+2025-05-19 12:39:33,212 - data_ingestion - INFO - spling the file to train and test
+2025-05-19 12:39:33,412 - data_ingestion - INFO - split data train and test sucessfully.
+2025-05-19 12:39:39,232 - data_ingestion - INFO - train and test file sent the artifacts folder successfully.
